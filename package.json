@@ -1,0 +1,20 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuda PH",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.34",
+    "mysql2": "^2.3.3",
+    "node-schedule": "^2.1.0",
+    "sequelize": "^6.12.0-beta.2"
+  }
+}
